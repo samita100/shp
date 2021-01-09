@@ -1,0 +1,1 @@
+{"version":"0.1","address":"WEBD$gCcTQ5tmHdZsdMMAhsfLXf3o7dIdIN0qF$$","publicKey":"60c5f11b2ddad6a2bca01ac556cc39b461a8130966803cd375956742e9c35fec","privateKey":"80f3ab28a850f6ed4595c13892e871c1ac80b5a4181aeb3e33283c12561db11bce60c5f11b2ddad6a2bca01ac556cc39b461a8130966803cd375956742e9c35fec5171b1cb"}
